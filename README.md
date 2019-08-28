@@ -5,7 +5,7 @@ This repository will contain all of the materials of MLSS lectures.
 
 ## The list of the current lectures published (will be updated with time):
 * Marco Cuturi - Optimal Transport (DAY-1 (26.08), DAY-2 (27.08)): https://github.com/mlss-skoltech/lectures/tree/master/optimal_transport
-* Justin Solomon - Geometric Techniques in ML (DAY-1 (26.08), DAY-2 (27.08)): https://github.com/mlss-skoltech/lectures/tree/master/geometric_techniques_in_ML
+* Justin Solomon - Geometric Techniques in ML (DAY-1 (26.08), DAY-2 (27.08), DAY-3 (28.09)): https://github.com/mlss-skoltech/lectures/tree/master/geometric_techniques_in_ML
 * Matus Jan Telgarsky - Deep Learning Theory (DAY-2 (27.08), DAY-3 (28.08)): https://github.com/mlss-skoltech/lectures/tree/master/deep_learning_theory
 * Arthur Gretton - Kernels (DAY-3 (28.08)): https://github.com/mlss-skoltech/lectures 
 * Michael Bronstein - Graph Neural Networks (DAY-2 (27.08), DAY-3 (28.09)): https://github.com/mlss-skoltech/lectures/tree/master/graph_neural_networks
