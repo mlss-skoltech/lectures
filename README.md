@@ -10,4 +10,4 @@ This repository will contain all of the materials of MLSS lectures.
 * [<b>Updated 30.08</b>]Arthur Gretton - Kernels (DAY-3 (28.08), DAY-4 (29.08), DAY-5 (30.08)): https://github.com/mlss-skoltech/lectures/tree/master/kernels
 * Michael Bronstein - Graph Neural Networks (DAY-2 (27.08), DAY-3 (28.09)): https://github.com/mlss-skoltech/lectures/tree/master/graph_neural_networks
 * Yarin Gal - Bayesian Deep Learning (DAY-3 (27.08), DAY-4 (28.08)): https://github.com/mlss-skoltech/lectures/tree/master/bayesian_deep_learning
-* Joris Mooij - Causality (DAY-4 (29.08)): https://github.com/mlss-skoltech/lectures/tree/master/causality
+* [<b>Updated 30.09</b>]Joris Mooij - Causality (DAY-4 (29.08)): https://github.com/mlss-skoltech/lectures/tree/master/causality
