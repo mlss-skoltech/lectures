@@ -11,3 +11,5 @@ This repository will contain all of the materials of MLSS lectures.
 * Michael Bronstein - Graph Neural Networks (DAY-2 (27.08), DAY-3 (28.09)): https://github.com/mlss-skoltech/lectures/tree/master/graph_neural_networks
 * Yarin Gal - Bayesian Deep Learning (DAY-3 (27.08), DAY-4 (28.08)): https://github.com/mlss-skoltech/lectures/tree/master/bayesian_deep_learning
 * [<b>Updated 30.08</b>]Joris Mooij - Causality (DAY-4 (29.08)): https://github.com/mlss-skoltech/lectures/tree/master/causality
+* Nicolò Cesa-Bianchi - Online Learning (DAY-4 (29.08), DAY-5 (30.08)): https://github.com/mlss-skoltech/lectures/tree/master/online_learning 
+* William Clements - Reinforcement Learning and Quantum Computing (<b>Community Day</b> DAY-6 (31.08)): https://github.com/mlss-skoltech/lectures/tree/master/COMMUNITY_DAY_RL_in_Quantum_Computing
