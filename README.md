@@ -12,4 +12,5 @@ This repository will contain all of the materials of MLSS lectures.
 * Yarin Gal - Bayesian Deep Learning (DAY-3 (27.08), DAY-4 (28.08)): https://github.com/mlss-skoltech/lectures/tree/master/bayesian_deep_learning
 * [<b>Updated 30.08</b>]Joris Mooij - Causality (DAY-4 (29.08)): https://github.com/mlss-skoltech/lectures/tree/master/causality
 * Nicolò Cesa-Bianchi - Online Learning (DAY-4 (29.08), DAY-5 (30.08)): https://github.com/mlss-skoltech/lectures/tree/master/online_learning 
-* William Clements - Reinforcement Learning and Quantum Computing (<b>Community Day</b> DAY-6 (31.08)): https://github.com/mlss-skoltech/lectures/tree/master/COMMUNITY_DAY_RL_in_Quantum_Computing
+* William Clements - Reinforcement Learning and Quantum Computing (<b>Community Day</b> (31.08)): https://github.com/mlss-skoltech/lectures/tree/master/COMMUNITY_DAY_RL_in_Quantum_Computing
+* Shimon Whiteson - Reinforcement Leanring (DAY - 6 (02.09)): https://github.com/mlss-skoltech/lectures/tree/master/reinforcement_learning
