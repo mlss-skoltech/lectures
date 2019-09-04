@@ -16,3 +16,4 @@ This repository will contain all of the materials of MLSS lectures.
 * Michel Besserve - ML and Neuroscience (DAY-6 (02.09), DAY-7 (03.09)): https://github.com/mlss-skoltech/lectures/tree/master/ml_and_neuroscience
 * Isabel Valera - Fairness & Interpretability (DAY-6 (02.09), DAY-7 (03.09)): https://github.com/mlss-skoltech/lectures/tree/master/fairness_interpretability
 * Shimon Whiteson - Reinforcement Learning (DAY-6 (02.09), DAY-7 (03.09), DAY-8 (04.09)): https://github.com/mlss-skoltech/lectures/tree/master/reinforcement_learning
+* Ulrich Bauer - Topological Data Analysis (DAY-8 (04.09)): https://github.com/mlss-skoltech/lectures/tree/master/topological_data_analysis
