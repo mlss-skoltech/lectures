@@ -17,4 +17,5 @@ This repository will contain all of the materials of MLSS lectures.
 * Isabel Valera - Fairness & Interpretability (DAY-6 (02.09), DAY-7 (03.09)): https://github.com/mlss-skoltech/lectures/tree/master/fairness_interpretability
 * [<b>Updated 04.09</b>]Shimon Whiteson - Reinforcement Learning (DAY-6 (02.09), DAY-7 (03.09), DAY-8 (04.09)): https://github.com/mlss-skoltech/lectures/tree/master/reinforcement_learning
 * Ulrich Bauer - Topological Data Analysis (DAY-8 (04.09), DAY-9 (05.09)): https://github.com/mlss-skoltech/lectures/tree/master/topological_data_analysis
-* Mark Girolami - Probabilistic Numerics (DAY-8 (04.09), DAY-9 (05.09)): https://github.com/mlss-skoltech/lectures/tree/master/probabilistic_numerics
+* Mark Girolami - Probabilistic Numerics (DAY-8 (04.09), DAY-9 (05.09), DAY-10 (06.09)): https://github.com/mlss-skoltech/lectures/tree/master/probabilistic_numerics
+* François Bachoc - Advances in Gaussian Process (DAY-9(05.09), DAY-10 (06.09)): https://github.com/mlss-skoltech/lectures/tree/master/gaussian_processes
