@@ -19,3 +19,4 @@ This repository will contain all of the materials of MLSS lectures.
 * Ulrich Bauer - Topological Data Analysis (DAY-8 (04.09), DAY-9 (05.09)): https://github.com/mlss-skoltech/lectures/tree/master/topological_data_analysis
 * Mark Girolami - Probabilistic Numerics (DAY-8 (04.09), DAY-9 (05.09), DAY-10 (06.09)): https://github.com/mlss-skoltech/lectures/tree/master/probabilistic_numerics
 * François Bachoc - Advances in Gaussian Process (DAY-9(05.09), DAY-10 (06.09)): https://github.com/mlss-skoltech/lectures/tree/master/gaussian_processes
+* Evgeny Burnaev - Deep Bayesian Generative Models for Knowledge Transfer and MRI Processing (DAY-10 (06.09)): https://github.com/mlss-skoltech/lectures/tree/master/deep_bayesian_generative_models%20
